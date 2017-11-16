@@ -2,7 +2,7 @@
 
 var audioData = {
     title: 'My Radio',
-    subtitle: 'Less bla bla, more la la',
+    subtitle: 'Less bla bla, more bla la',
     cardContent: "Visit our web site https://www.myradio.com",
     url: 'https://audio1.maxi80.com',
     image: {

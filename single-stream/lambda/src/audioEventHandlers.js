@@ -7,7 +7,7 @@ var audioEventHandlers =  {
          * Confirming that requested audio file began playing.
          * Do not send any specific response.
          */
-        console.log("Playback started");        
+        console.log("Playback started!");        
         this.emit(':responseReady');
     },
     'PlaybackFinished' : function () {
